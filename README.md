@@ -1,7 +1,18 @@
-## Calendar start code
+# Calendar-js Project
 
-### To start:
+### [Link](#)
 
-1. clone the repo
-2. install LTS [NodeJS](https://nodejs.org/en/)
-3. run `npm install` to to use eslint in the project
+Calendar-js Project
+
+## **The tech stack is:**
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+- [Flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
+- [Sass (Scss)](https://sass-lang.com/)
+- [BEM methodology](https://en.bem.info/methodology/)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+## Author:
+
+- Alexey Kirillov
